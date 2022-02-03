@@ -10,7 +10,7 @@
 - 💻 On campus, I previously worked as a [Lab TA](https://labta.cs.princeton.edu/) for COS 226: Algorithms and Data Structures and COS 217:
     Intro to Programming Systems. Currently, I am a grader for COS 340/240: Reasoning about Computation.
 - 🎺 In my free time, I enjoy playing the trumpet in the [Princeton University Orchestra](https://orchestra.princeton.edu/), and also design and maintain the 
-    Orchestra's website. I am also a co-lead developer for [HackPrinceton](https://www.hackprinceton.com/). I also love to go rock climbing!
+    Orchestra's website. Additionally, I am a co-lead developer for [HackPrinceton](https://www.hackprinceton.com/). I also love to go rock climbing!
 - 🤝 You can find me on [LinkedIn](https://www.linkedin.com/in/devonulrich/) if you would like to connect.
 
 <!--
